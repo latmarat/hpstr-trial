@@ -1,10 +1,8 @@
 source "https://rubygems.org"
 
 gem "json"
-gem "jekyll"
+gem "jekyll", "~> 3.0"
 gem "jekyll-sitemap"
-gem "jekyll-feed"
+gem "octopress"
 gem "jekyll-paginate"
 gem "jekyll-gist"
-gem "addressable", "~> 2.4.0"
-gem "colorator", "~> 1.1.0"
