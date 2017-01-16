@@ -1,26 +1,25 @@
 ---
 layout: post-index
-title: Latest Posts
-description: "Describe this nonsense."
-tags: [Jekyll, theme, themes, responsive, blog, modern]
+title: Marat I. Latypov
+description: "Research blog of Marat I. Latypov (Georgia Tech Lorraine) - posts on Dream.3D, ABAQUS, MTEX, Python, MATLAB - micromechanics of materials, microstructures, crystal plasticity, texture, materials informatics."
+tags:
 comments: false
 image:
-  feature: abstract-1.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: cover.png
 ---
 
 {% for post in paginator.posts %}
+{% if post.layout =="post" %}
 <article class="hentry">
   <header>
     {% if post.image.feature %}
       <div class="entry-image-index">
-        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.title }}"></a>
+        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img src="{{ post.image.feature }}" alt="{{ post.title }}"></a>
       </div><!-- /.entry-image -->
     {% endif %}
     <div class="entry-meta">
       <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>
-      {% if site.reading_time %}
+      {% if site.reading_time and post.layout =="post" and post.long %}
       <span class="entry-reading-time">
         <i class="fa fa-clock-o"></i>
         {% include read-time-index.html %}
@@ -33,10 +32,17 @@ image:
       <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
     {% endif %}
   </header>
-  <div class="entry-content">
-    {{ post.content }}
-  </div><!-- /.entry-content -->
+    {% if post.long %}
+      <div class="entry-content">
+      {{ post.description }}
+      </div>
+      <a href="{{ site.url }}{{ post.url }}">Read the full story &#8594</a>
+    {% else %}
+      <div class="entry-content">
+        {{ post.content }}
+      </div><!-- /.entry-content -->
+    {% endif %}
 </article><!-- /.hentry -->
+{% endif %} <!-- / if post.layout=="post" -->
 {% endfor %}
-
 {% include pagination.html %}

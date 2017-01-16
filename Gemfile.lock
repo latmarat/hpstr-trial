@@ -50,6 +50,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  addressable (~> 2.4.0)
   jekyll
   jekyll-feed
   jekyll-gist

@@ -1,0 +1,2315 @@
+{
+	"PC1": [
+		[-0.1114891617],
+		[-0.1113921632],
+		[-0.09622022566],
+		[-0.1009319277],
+		[-0.1012632804],
+		[-0.08348502971],
+		[-0.08819380593],
+		[-0.09045875594],
+		[-0.08391664702],
+		[-0.08279790878],
+		[-0.07930230345],
+		[-0.09083186685],
+		[-0.0719422717],
+		[-0.0661260104],
+		[-0.0567213986],
+		[-0.05876274005],
+		[-0.05978224931],
+		[-0.052723184],
+		[-0.05511289289],
+		[-0.04506838275],
+		[-0.05011844302],
+		[-0.03365355624],
+		[-0.03915913397],
+		[-0.03249738249],
+		[-0.03722025456],
+		[-0.0367679469],
+		[-0.04351466814],
+		[-0.02708501718],
+		[-0.01877619968],
+		[-0.03284026622],
+		[0.03189784053],
+		[0.03201868623],
+		[0.02870016549],
+		[0.02736450011],
+		[0.03011849067],
+		[0.03255920154],
+		[0.02578892334],
+		[0.0418055694],
+		[0.03982591537],
+		[0.03407124559],
+		[0.03448368789],
+		[0.03302032288],
+		[0.03593970746],
+		[0.03768282389],
+		[0.03390951884],
+		[0.04111937627],
+		[0.03614791116],
+		[0.03380998609],
+		[0.03574872435],
+		[0.03291796149],
+		[0.03541590103],
+		[-0.01396474335],
+		[-0.009200429331],
+		[-0.008673779774],
+		[-0.008769323028],
+		[-0.01659798768],
+		[-0.00475551033],
+		[-0.004393902964],
+		[-0.002492148922],
+		[-0.01264169196],
+		[-0.003207034643],
+		[-0.004768284496],
+		[-0.001688138966],
+		[-0.01407860086],
+		[-0.0224905278],
+		[-0.02284827682],
+		[-0.01744532127],
+		[-0.02489200041],
+		[-0.03342109651],
+		[-0.03113665952],
+		[-0.02790676275],
+		[-0.02666122484],
+		[-0.01828709593],
+		[-0.01330164224],
+		[-0.01471901203],
+		[-0.01652940523],
+		[-0.007325168188],
+		[-0.003107945187],
+		[-0.0009571242244],
+		[0.006035541913],
+		[-0.003077293244],
+		[0.001958232027],
+		[-0.001012476112],
+		[0.001831963305],
+		[-0.002084607739],
+		[-0.0111468458],
+		[-0.01537315335],
+		[-0.01542303603],
+		[-0.01207352814],
+		[-0.01166071324],
+		[-0.02178563215],
+		[-0.008165925561],
+		[-0.02331886639],
+		[-0.02338262247],
+		[-0.01843500922],
+		[-0.02792844038],
+		[-0.01753607573],
+		[-0.01534807185],
+		[-0.01015903238],
+		[-0.01280881107],
+		[-0.01692955046],
+		[-0.01113399425],
+		[-0.01336168473],
+		[-0.01214920931],
+		[-0.01742867944],
+		[-0.01401122521],
+		[-0.01857094007],
+		[-0.0153195011],
+		[-0.01959898541],
+		[-0.03163378755],
+		[-0.03501354012],
+		[-0.03108482457],
+		[-0.03404155308],
+		[-0.01579542306],
+		[-0.01825951345],
+		[-0.008351951811],
+		[-0.02531428488],
+		[-0.03260733807],
+		[-0.02744485484],
+		[0.1375774776],
+		[0.1366828181],
+		[0.1404701726],
+		[0.1412949619],
+		[0.1401131454],
+		[0.1479445162],
+		[0.149096491],
+		[0.1445222207],
+		[0.1301690301],
+		[0.1384665148],
+		[0.1429444607],
+		[0.1357800764],
+		[0.1408760834],
+		[0.143045945],
+		[0.1390768002],
+		[0.1409539849]
+	],
+	"PC2": [
+		[0.0346909679],
+		[0.03922523475],
+		[0.02689469868],
+		[0.01816232575],
+		[0.0225486224],
+		[0.02436831329],
+		[0.02012427636],
+		[0.01344656669],
+		[0.01520418563],
+		[0.008562850257],
+		[0.007525784517],
+		[0.01184985296],
+		[-0.003954107953],
+		[0.001939415437],
+		[0.00536134673],
+		[0.009955307416],
+		[-0.004195549295],
+		[-0.001188564071],
+		[0.003394646734],
+		[0.001958350681],
+		[-0.0008391018215],
+		[-0.0129689329],
+		[-0.004160013827],
+		[0.001488508947],
+		[0.005508754667],
+		[-0.003075669528],
+		[-0.01109332139],
+		[-0.00475014911],
+		[-0.00243945148],
+		[-0.0006603613447],
+		[-0.02596112902],
+		[-0.04260910545],
+		[-0.03766406848],
+		[-0.03267174733],
+		[-0.0365223624],
+		[-0.04250962143],
+		[-0.03616645073],
+		[-0.03486459041],
+		[-0.03852904313],
+		[-0.04064212988],
+		[-0.02730052532],
+		[-0.04165373269],
+		[-0.03479752984],
+		[-0.03311856467],
+		[-0.03868363846],
+		[-0.0336375715],
+		[-0.03646499454],
+		[-0.03451324059],
+		[-0.03511652237],
+		[-0.03744118285],
+		[-0.03768844242],
+		[0.006281312422],
+		[0.013310165],
+		[0.02076214588],
+		[0.009308113947],
+		[0.01775228475],
+		[0.007707042455],
+		[0.01371319569],
+		[0.01851799244],
+		[0.01327684829],
+		[0.008188593107],
+		[0.004888968786],
+		[0.00127223966],
+		[-0.002940255103],
+		[0.004348030271],
+		[0.0002036168244],
+		[-0.004462218212],
+		[-0.001889021433],
+		[0.001094304229],
+		[0.01176522951],
+		[0.00732546316],
+		[-0.0005489879946],
+		[0.01181949666],
+		[0.01938478039],
+		[0.01338590729],
+		[0.002265479609],
+		[0.002309417251],
+		[0.005101719989],
+		[-0.003812190074],
+		[-0.01030809396],
+		[-0.007020502217],
+		[-0.008013863902],
+		[-0.01045919266],
+		[-0.008248008008],
+		[0.00600218816],
+		[0.005010950132],
+		[-0.007237365315],
+		[-0.006078916346],
+		[-0.001183783186],
+		[-0.00602133399],
+		[-0.01222534979],
+		[-0.007260845135],
+		[-0.01627662848],
+		[-0.008445917541],
+		[-0.01084623166],
+		[-0.007443854311],
+		[-0.003135615748],
+		[-0.001574592173],
+		[-0.006005058741],
+		[-0.001566907293],
+		[-0.003397631376],
+		[0.007169020887],
+		[0.008524583874],
+		[0.01924890088],
+		[0.009805285992],
+		[-0.0004866759825],
+		[0.001332552118],
+		[-0.001212469912],
+		[0.008690502841],
+		[0.02356365277],
+		[0.009225452308],
+		[0.010619517],
+		[0.01261965603],
+		[0.00579441021],
+		[0.009601486529],
+		[-0.01144297388],
+		[-0.003690390966],
+		[0.002862022157],
+		[-0.013295835],
+		[0.01654612368],
+		[0.01856403968],
+		[0.01943971266],
+		[0.02353906201],
+		[0.01730552841],
+		[0.03061843122],
+		[0.02985296773],
+		[0.02656056517],
+		[0.01427020747],
+		[0.02263841386],
+		[0.02433260177],
+		[0.02214529198],
+		[0.02169007591],
+		[0.02809476324],
+		[0.02419530319],
+		[0.02835649931]
+	],
+	"PC3": [
+		[-0.009015059363],
+		[-0.01333264747],
+		[-0.01257262139],
+		[-0.004256753346],
+		[-0.00488365999],
+		[-0.00806573182],
+		[-0.0001250127374],
+		[-0.00922104037],
+		[-0.01273030153],
+		[-0.008150256644],
+		[-0.007588701369],
+		[-0.005569885959],
+		[-0.002647052022],
+		[0.001834357103],
+		[-0.008272007638],
+		[-0.006099509481],
+		[-0.004953180789],
+		[-0.004252311866],
+		[-0.003999379633],
+		[-0.004725077813],
+		[0.002750409364],
+		[-0.006594703451],
+		[-0.004555615245],
+		[0.007744893681],
+		[-0.00457544276],
+		[-0.0003495138215],
+		[0.006740523469],
+		[-0.007183838118],
+		[-0.002438679576],
+		[0.00551888408],
+		[-0.005699015555],
+		[0.001674310288],
+		[0.006263021605],
+		[0.003484145689],
+		[0.001861029455],
+		[0.002277958441],
+		[0.001579385188],
+		[-0.00189267597],
+		[-0.0070121495],
+		[-0.00269786215],
+		[-0.003640878774],
+		[0.004641680381],
+		[-0.00357306279],
+		[-0.00417754441],
+		[0.0003536813217],
+		[0.001588772191],
+		[-0.006679089289],
+		[-0.0007668434609],
+		[-0.003764342946],
+		[-0.002037557376],
+		[-0.003063892429],
+		[-0.01642236844],
+		[-0.006127750956],
+		[-0.0136466175],
+		[-0.009213280868],
+		[0.01626402317],
+		[0.002742125332],
+		[0.003469116786],
+		[-0.00230413353],
+		[-0.007455230561],
+		[0.00146869665],
+		[0.004397649888],
+		[0.002984827037],
+		[-0.002601254714],
+		[0.001846918994],
+		[0.00130786313],
+		[-0.003249241227],
+		[-0.001154462388],
+		[0.002624989906],
+		[-0.008229878875],
+		[0.0001119941958],
+		[-0.005748934236],
+		[0.00147084916],
+		[0.01089444419],
+		[-0.001332345676],
+		[-0.002261349697],
+		[-0.006578975597],
+		[0.0007839477457],
+		[-0.001417665077],
+		[0.001531232509],
+		[-0.01366302729],
+		[0.004206294087],
+		[-0.007246114164],
+		[-0.004930613733],
+		[-0.01191078146],
+		[-0.01074002991],
+		[0.001923036948],
+		[-0.005866336879],
+		[-0.02002207792],
+		[0.003029440673],
+		[-0.002347783464],
+		[-0.02146319679],
+		[-0.005178281475],
+		[-0.0082996258],
+		[-0.004371579664],
+		[-0.01106836207],
+		[-0.0016557003],
+		[-0.001426402396],
+		[-0.0074050108],
+		[0.02741445434],
+		[0.002083359427],
+		[0.01660047067],
+		[0.02114833383],
+		[0.01759995872],
+		[0.007600220624],
+		[0.005031454193],
+		[0.01070602292],
+		[0.004173432697],
+		[0.009759291909],
+		[-0.002560926234],
+		[0.02474805191],
+		[0.03359853543],
+		[0.02094403216],
+		[0.03916767525],
+		[0.03322173597],
+		[0.02290208861],
+		[0.02879504636],
+		[0.02171552717],
+		[0.006203652718],
+		[-0.004330398591],
+		[-0.001075070984],
+		[-0.008701067538],
+		[-0.003735890501],
+		[-0.004281634012],
+		[-0.002090997196],
+		[0.001760072678],
+		[-0.002475819551],
+		[-0.003740820579],
+		[-0.001546004867],
+		[-0.0005167291165],
+		[0.0006485838344],
+		[-0.004011906159],
+		[-0.003574359567],
+		[0.001046744962],
+		[0.002903688177]
+	],
+	"GrainSize": [
+		[3.101669758],
+		[3.101464592],
+		[3.113217368],
+		[3.109258039],
+		[3.137961796],
+		[3.145453501],
+		[3.273853499],
+		[3.265612158],
+		[3.364868965],
+		[3.395410758],
+		[3.433484247],
+		[3.394948678],
+		[3.566905229],
+		[3.809767322],
+		[3.720557032],
+		[3.815938332],
+		[3.680557305],
+		[3.790691992],
+		[3.908630483],
+		[4.000701418],
+		[4.001547662],
+		[4.072761648],
+		[4.090422956],
+		[4.246310185],
+		[4.310129842],
+		[4.197044188],
+		[4.206978878],
+		[4.341254925],
+		[4.14493352],
+		[4.036465483],
+		[2.951381179],
+		[2.982698927],
+		[2.94291732],
+		[2.96377289],
+		[3.00632564],
+		[2.985587155],
+		[2.953917585],
+		[2.986619153],
+		[3.011998789],
+		[3.023615358],
+		[2.992195142],
+		[3.01839604],
+		[3.044240103],
+		[3.019113127],
+		[3.074322352],
+		[3.063570042],
+		[3.042538878],
+		[3.004606994],
+		[2.975522942],
+		[2.982104403],
+		[2.985849316],
+		[2.172390365],
+		[2.087029605],
+		[2.069151758],
+		[2.032388177],
+		[2.030874038],
+		[2.060333402],
+		[2.062223451],
+		[2.092612361],
+		[2.087667257],
+		[2.093490418],
+		[2.013164457],
+		[2.089890557],
+		[2.02553921],
+		[2.000398217],
+		[1.912642308],
+		[1.94945643],
+		[1.905377809],
+		[1.993937335],
+		[2.0582527],
+		[2.104002981],
+		[1.996400037],
+		[2.082704131],
+		[2.078525533],
+		[2.10053162],
+		[2.002538866],
+		[2.043032523],
+		[2.055511465],
+		[2.002623187],
+		[2.16908569],
+		[2.100684213],
+		[2.151420243],
+		[2.01710351],
+		[1.913132925],
+		[1.868012825],
+		[1.816680599],
+		[1.821439319],
+		[1.903855635],
+		[1.933355579],
+		[1.879119117],
+		[1.901495831],
+		[1.90764269],
+		[1.853359501],
+		[1.842793841],
+		[1.93810167],
+		[1.90509932],
+		[1.913708022],
+		[1.916874594],
+		[1.930714736],
+		[1.91586162],
+		[1.903892677],
+		[1.914646399],
+		[1.917386116],
+		[1.920173189],
+		[1.872867097],
+		[1.81856445],
+		[1.779779523],
+		[1.825155016],
+		[1.831376345],
+		[1.843934273],
+		[1.781917703],
+		[1.818519857],
+		[1.875827989],
+		[1.817518732],
+		[1.93591299],
+		[1.945471362],
+		[1.945436017],
+		[1.94294719],
+		[1.986542571],
+		[17.52336194],
+		[17.31089135],
+		[17.66396688],
+		[17.73923933],
+		[18.17173145],
+		[18.83620922],
+		[18.63572833],
+		[19.07502786],
+		[17.17245212],
+		[18.19387289],
+		[18.31412121],
+		[17.51498773],
+		[18.32704951],
+		[18.58582249],
+		[18.15718363],
+		[17.38301962]
+	],
+	"CI": [
+		[0.5738852657],
+		[0.4893452583],
+		[0.3440447676],
+		[0.412229572],
+		[0.3924429593],
+		[0.3573418527],
+		[0.3734997933],
+		[0.404967598],
+		[0.4168579558],
+		[0.4065893176],
+		[0.43827935],
+		[0.5851091418],
+		[0.6320962647],
+		[0.6483293021],
+		[0.6516618629],
+		[0.6502884134],
+		[0.6261466738],
+		[0.5760856726],
+		[0.5788823334],
+		[0.6152899258],
+		[0.6070690963],
+		[0.5944200233],
+		[0.6145439026],
+		[0.6100799441],
+		[0.6265818754],
+		[0.620187568],
+		[0.6134623809],
+		[0.6206319145],
+		[0.6118006811],
+		[0.6070241165],
+		[0.303858676],
+		[0.3076239522],
+		[0.3082557491],
+		[0.3038516874],
+		[0.3020875859],
+		[0.3030767745],
+		[0.3030122648],
+		[0.3004698457],
+		[0.3046250075],
+		[0.2995881732],
+		[0.3046050174],
+		[0.2978325535],
+		[0.3050932802],
+		[0.3016653061],
+		[0.3038350224],
+		[0.3041269288],
+		[0.3084199303],
+		[0.3059050473],
+		[0.3057693579],
+		[0.307871558],
+		[0.3111614136],
+		[0.6984850827],
+		[0.6004872275],
+		[0.6140918723],
+		[0.6721059893],
+		[0.6789330964],
+		[0.6734978392],
+		[0.6730156055],
+		[0.673042591],
+		[0.6741725888],
+		[0.6770394539],
+		[0.6781485003],
+		[0.680409104],
+		[0.6792638209],
+		[0.6796183297],
+		[0.6792766094],
+		[0.6784911169],
+		[0.6858786933],
+		[0.6774421396],
+		[0.675894811],
+		[0.675403326],
+		[0.6757241749],
+		[0.6723927943],
+		[0.6674732546],
+		[0.6623512756],
+		[0.6600045776],
+		[0.6602447742],
+		[0.6616587279],
+		[0.6613861039],
+		[0.6621807996],
+		[0.6608358782],
+		[0.6618258587],
+		[0.6644615385],
+		[0.6614447165],
+		[0.6623392074],
+		[0.6655953296],
+		[0.6689053107],
+		[0.67123309],
+		[0.6719693492],
+		[0.6765833733],
+		[0.6764273824],
+		[0.6842847562],
+		[0.6676559749],
+		[0.6677497199],
+		[0.6656146964],
+		[0.6614511828],
+		[0.660724527],
+		[0.661090848],
+		[0.6645178303],
+		[0.6645037293],
+		[0.6671270687],
+		[0.6708566535],
+		[0.672414802],
+		[0.6776069817],
+		[0.6767427094],
+		[0.6828794936],
+		[0.6843535324],
+		[0.6835173981],
+		[0.6846766382],
+		[0.6756945645],
+		[0.6725308749],
+		[0.674000016],
+		[0.6691892186],
+		[0.6726498608],
+		[0.6713775249],
+		[0.6698292199],
+		[0.6596439227],
+		[0.6485160697],
+		[0.6388034988],
+		[0.5],
+		[0.5],
+		[0.5],
+		[0.5],
+		[0.5],
+		[0.5],
+		[0.5],
+		[0.5],
+		[0.5],
+		[0.5],
+		[0.5],
+		[0.5],
+		[0.5],
+		[0.5],
+		[0.5],
+		[0.5]
+	],
+	"phase": [
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Nickel"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Austenite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Ferrite"
+		],
+		[
+			"Copper"
+		],
+		[
+			"Copper"
+		],
+		[
+			"Copper"
+		],
+		[
+			"Copper"
+		],
+		[
+			"Copper"
+		],
+		[
+			"Copper"
+		],
+		[
+			"Copper"
+		],
+		[
+			"Copper"
+		],
+		[
+			"Copper"
+		],
+		[
+			"Copper"
+		],
+		[
+			"Copper"
+		],
+		[
+			"Copper"
+		],
+		[
+			"Copper"
+		],
+		[
+			"Copper"
+		],
+		[
+			"Copper"
+		],
+		[
+			"Copper"
+		]
+	],
+	"author": [
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Jia Li, Carnegie Mellon University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Hossein Beladi, Deakin University"
+		],
+		[
+			"Coleman and Randle, Swansea University"
+		],
+		[
+			"Coleman and Randle, Swansea University"
+		],
+		[
+			"Coleman and Randle, Swansea University"
+		],
+		[
+			"Coleman and Randle, Swansea University"
+		],
+		[
+			"Coleman and Randle, Swansea University"
+		],
+		[
+			"Coleman and Randle, Swansea University"
+		],
+		[
+			"Coleman and Randle, Swansea University"
+		],
+		[
+			"Coleman and Randle, Swansea University"
+		],
+		[
+			"Coleman and Randle, Swansea University"
+		],
+		[
+			"Coleman and Randle, Swansea University"
+		],
+		[
+			"Coleman and Randle, Swansea University"
+		],
+		[
+			"Coleman and Randle, Swansea University"
+		],
+		[
+			"Coleman and Randle, Swansea University"
+		],
+		[
+			"Coleman and Randle, Swansea University"
+		],
+		[
+			"Coleman and Randle, Swansea University"
+		],
+		[
+			"Coleman and Randle, Swansea University"
+		],
+		[
+			"Coleman and Randle, Swansea University"
+		]
+	],
+	"link": [
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2009.06.004"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2014.02.038"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2012.11.017"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2008.01.039"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2008.01.039"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2008.01.039"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2008.01.039"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2008.01.039"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2008.01.039"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2008.01.039"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2008.01.039"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2008.01.039"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2008.01.039"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2008.01.039"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2008.01.039"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2008.01.039"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2008.01.039"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2008.01.039"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2008.01.039"
+		],
+		[
+			"http:\/\/dx.doi.org\/10.1016\/j.actamat.2008.01.039"
+		]
+	],
+	"linkText": [
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Li et al., Acta Mater., 2009"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi et al., Acta Mater., 2014"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Beladi and Rohrer., Acta Mater., 2013"
+		],
+		[
+			"Randle et al., Acta Mater., 2008"
+		],
+		[
+			"Randle et al., Acta Mater., 2008"
+		],
+		[
+			"Randle et al., Acta Mater., 2008"
+		],
+		[
+			"Randle et al., Acta Mater., 2008"
+		],
+		[
+			"Randle et al., Acta Mater., 2008"
+		],
+		[
+			"Randle et al., Acta Mater., 2008"
+		],
+		[
+			"Randle et al., Acta Mater., 2008"
+		],
+		[
+			"Randle et al., Acta Mater., 2008"
+		],
+		[
+			"Randle et al., Acta Mater., 2008"
+		],
+		[
+			"Randle et al., Acta Mater., 2008"
+		],
+		[
+			"Randle et al., Acta Mater., 2008"
+		],
+		[
+			"Randle et al., Acta Mater., 2008"
+		],
+		[
+			"Randle et al., Acta Mater., 2008"
+		],
+		[
+			"Randle et al., Acta Mater., 2008"
+		],
+		[
+			"Randle et al., Acta Mater., 2008"
+		],
+		[
+			"Randle et al., Acta Mater., 2008"
+		]
+	]
+}

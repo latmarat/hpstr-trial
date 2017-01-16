@@ -1,42 +1,44 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname:
+title:            research blog
+description:      Research blog of Marat I. Latypov (Georgia Tech Lorraine) - posts on Dream.3D, ABAQUS, MTEX, Python, MATLAB - micromechanics of materials, microstructures, crystal plasticity, texture, materials informatics
+disqus_shortname: latmarat
 reading_time:     true
 words_per_minute: 200
-# Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url: /hpstr-trial
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Marat I. Latypov
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "Materials Scientist at Georgia Tech Lorraine."
+  email:          marat.latypov@georgiatech-metz.fr
   # Social networking links used in footer. Update and remove as you like.
   twitter:
   facebook:
-  github:
+  github: #https://github.com/latmarat
   stackexchange:
-  linkedin:
+  linkedin: latmarat
   instagram:
   flickr:
   tumblr:
   # google plus id, include the '+', eg +mmistakes
   google_plus:
+  researchgate: Marat_Latypov
+  google_scholar: We5aJywAAAAJ&hl=en&oi=ao
 
 # Background image to be tiled on all pages
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-61278008-2
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-future:      false  # publish future dated posts --  true, false (default)
+timezone:    Europe/Paris
+future:      true
 highlighter: rouge
 markdown:    kramdown
 gems:
